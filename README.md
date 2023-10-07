@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://zohaibaslam.me/zohaib.png" width="200px" height="200px" />
-</p>
-
 
 <h1 align="center" style="color: blue;">Zohaib Aslam</h1>
 
